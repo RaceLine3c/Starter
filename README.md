@@ -1,6 +1,6 @@
 # Racing starter 
 
-To do this you'll need
+This project consists in imitating the traffic lights of a race start with sound, traffic lights... (the lights are not of several colors maybe in a future update). So to do this you'll need :
 
     - Raspberry Pi
     - Arduino
@@ -9,3 +9,6 @@ To do this you'll need
     - Stepper motor
     - Resistance 10 kOhm
     - Motions sensor
+    - Speaker
+   
+
