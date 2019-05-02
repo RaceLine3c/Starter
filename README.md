@@ -14,4 +14,4 @@ This project consists in imitating the traffic lights of a race start with sound
     - Speaker
     - Driver Motor L298N
    
-#Enjoy !
+# Enjoy !
