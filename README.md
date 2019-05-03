@@ -13,5 +13,7 @@ This project consists in imitating the traffic lights of a race start with sound
     - Motions sensor
     - Speaker
     - Driver Motor L298N
+    - USB A Cable
+    - Power supply 5V 3A
    
 # Enjoy !
