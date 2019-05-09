@@ -98,28 +98,28 @@ try:
             a.digitalWrite(6, a.HIGH)
             a.digitalWrite(7, a.LOW)
 
-            time.sleep(1)
+            time.sleep(10)
 
             a.digitalWrite(3, a.LOW)
             a.digitalWrite(4, a.HIGH)
             a.digitalWrite(6, a.LOW)
             a.digitalWrite(7, a.HIGH)
 
-            time.sleep(1)
+            time.sleep(10)
 
             a.digitalWrite(3, a.HIGH)
             a.digitalWrite(4, a.LOW)
             a.digitalWrite(6, a.LOW)
             a.digitalWrite(7, a.HIGH)
 
-            time.sleep(1)
+            time.sleep(10)
 
             a.digitalWrite(3, a.HIGH)
             a.digitalWrite(4, a.LOW)
             a.digitalWrite(6, a.HIGH)
             a.digitalWrite(7, a.LOW)
 
-            time.sleep(1)
+            time.sleep(10)
             
 finally: #If the program is interrupted, this block will be executed
     GPIO.output(19, GPIO.LOW) #make sure to turn the first LED light off
